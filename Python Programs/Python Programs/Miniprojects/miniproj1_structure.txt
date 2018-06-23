@@ -1,0 +1,21 @@
+''' structure
+Overview -
+1. Access a specfic users direcoyy, this can be done using a simple login. 
+Login -
+Login needs to specify new user or already created user.Created user can acess the old 		file,thus when user logs out, the file information is saved.
+
+2. once in the file, we ask what cart we need, seperate sub directorries generated.
+3. Once in the specefic cart , we gnerate a list of items that can be added to the same, item set is present there, and we can choose each one based on an optoin type thing.
+4. Each item has a specfic price, when the user exits , the total price is generated along with a lsit of items.
+5. In the oriignal menu, we should hvave an option saying total purchse , whcih generates all inforamtion from all the carts.
+6. Plus exit case.'''
+
+''' Module 1-
+login page -
+*screenpromt asking for a new user or an old user.
+*If new user, prompt for user and password.
+*if old user, we enter the user and password and gain acess to their individual directory.
+*Generates a new directory.
+
+Module 2-'''
+

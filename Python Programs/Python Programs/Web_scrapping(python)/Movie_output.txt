@@ -1,0 +1,208 @@
+Rank,	Distributor,	MarketShare,	TotalGross*,	MoviesTracked,	2018Movies**,	1,	Buena Vista,	33.5%,	$1,527.7,	6,	3,	2,	20th Century Fox,	11.8%,	$538.2,	10,	5,	3,	Warner Bros.,	11.4%,	$521.6,	22,	11,	4,	Sony / Columbia,	8.9%,	$405.4,	10,	5,	5,	Universal,	8.7%,	$397.3,	8,	6,	6,	Paramount,	6.0%,	$274.1,	6,	4,	7,	Lionsgate,	3.8%,	$173.8,	10,	9,	8,	STX Entertainment,	2.6%,	$120.1,	5,	3,	9,	Fox Searchlight,	2.4%,	$109.3,	3,	1,	10,	Roadside Attractions,	2.2%,	$101.5,	6,	5,	11,	Focus Features,	1.6%,	$73.8,	7,	4,	12,	Entertainment Studios,	1.2%,	$53.0,	3,	2,	13,	MGM/UA,	0.7%,	$34.0,	1,	1,	14,	Neon,	0.6%,	$28.1,	4,	3,	15,	Aviron,	0.5%,	$24.4,	1,	1,	16,	Sony Classics,	0.5%,	$22.7,	11,	6,	17,	A24,	0.5%,	$22.6,	6,	3,	18,	Global Road,	0.3%,	$15.6,	2,	2,	19,	Bleecker Street,	0.3%,	$14.8,	6,	5,	20,	Viva Pictures Distribution,	0.3%,	$12.1,	3,	3,	21,	Fathom,	0.2%,	$11.2,	11,	11,	22,	Pure Flix,	0.2%,	$10.4,	3,	2,	23,	Mirror/LD,	0.2%,	$10.0,	1,	1,	24,	IFC,	0.2%,	$8.6,	11,	11,	25,	Orion Pictures,	0.1%,	$6.1,	2,	1,	26,	Magnolia,	0.1%,	$5.2,	12,	9,	27,	Well Go USA,	0.1%,	$3.7,	12,	9,	28,	Shorts International,	0.1%,	$3.5,	1,	1,	29,	Electric Entertainment,	0.1%,	$3.4,	1,	1,	30,	Fun Academy,	0.1%,	$3.1,	2,	2,	31,	GKIDS,	0.1%,	$2.7,	5,	3,	32,	Great India Films,	0.1%,	$2.7,	1,	1,	33,	Amazon Studios,	0.1%,	$2.5,	2,	1,	34,	Cohen Media Group,	0.0%,	$1.6,	5,	4,	35,	China Lion,	0.0%,	$1.4,	6,	4,	36,	FIP,	0.0%,	$1.3,	1,	1,	37,	Yash Raj,	0.0%,	$1.3,	2,	1,	38,	IMAX,	0.0%,	$1.2,	4,	0,	39,	Eros,	0.0%,	$1.1,	2,	2,	40,	Swen,	0.0%,	$938k,	1,	1,	41,	The Orchard,	0.0%,	$871k,	8,	6,	42,	Kino Lorber,	0.0%,	$844k,	12,	9,	43,	Zeitgeist,	0.0%,	$696k,	3,	1,	44,	Good Deed,	0.0%,	$673k,	3,	2,	45,	Open Road Films,	0.0%,	$583k,	1,	0,	46,	Film Movement,	0.0%,	$575k,	9,	6,	47,	Vertical Entertainment,	0.0%,	$533k,	2,	2,	48,	Gathr Films,	0.0%,	$506k,	23,	9,	49,	Greenwich,	0.0%,	$489k,	2,	2,	50,	Menemsha,	0.0%,	$449k,	2,	1,	51,	Indican,	0.0%,	$432k,	8,	6,	52,	Music Box Films,	0.0%,	$327k,	6,	4,	53,	Abramorama,	0.0%,	$314k,	5,	4,	54,	Gaumont British Picture Corporation,	0.0%,	$308k,	1,	1,	55,	Strand,	0.0%,	$296k,	6,	5,	56,	CJ Entertainment,	0.0%,	$273k,	4,	4,	57,	Hannover House,	0.0%,	$247k,	3,	3,	58,	Dada Films,	0.0%,	$186k,	1,	1,	59,	Janus Films,	0.0%,	$174k,	6,	5,	60,	Cinema Guild,	0.0%,	$145k,	7,	5,	61,	Gravitas Ventures,	0.0%,	$117k,	4,	4,	62,	Great Point,	0.0%,	$99.7k,	2,	2,	63,	Argot Pictures,	0.0%,	$98.9k,	1,	0,	64,	Super,	0.0%,	$98.4k,	2,	2,	65,	Atlas Distribution,	0.0%,	$94.8k,	2,	1,	66,	Lightyear Entertainment,	0.0%,	$86.4k,	1,	1,	67,	Samuel Goldwyn,	0.0%,	$85.6k,	1,	1,	68,	Oscilloscope Pictures,	0.0%,	$84.3k,	6,	4,	69,	Rialto,	0.0%,	$76.4k,	4,	3,	70,	FilmRise,	0.0%,	$75.3k,	2,	1,	71,	Outsider Films,	0.0%,	$73.5k,	1,	1,	72,	Passion River,	0.0%,	$71.7k,	1,	1,	73,	Parade Deck Films,	0.0%,	$68.0k,	5,	5,	74,	FilmBuff,	0.0%,	$57.3k,	1,	1,	75,	Under the Milky Way,	0.0%,	$56.6k,	1,	1,	76,	Grasshopper Film,	0.0%,	$56.5k,	8,	3,	77,	Vitagraph,	0.0%,	$45.0k,	1,	0,	78,	Paladin,	0.0%,	$43.8k,	2,	2,	79,	Zealous Productions,	0.0%,	$42.8k,	1,	1,	80,	Darin Southam Endeavor, Inc.,	0.0%,	$41.8k,	1,	1,	81,	First Run,	0.0%,	$40.9k,	5,	4,	82,	Shout! Factory,	0.0%,	$40.1k,	1,	1,	83,	Broad Green Pictures,	0.0%,	$32.6k,	1,	0,	84,	Icarus Films,	0.0%,	$23.4k,	2,	1,	85,	CARUSEL,	0.0%,	$23.0k,	2,	2,	86,	Idle Wild Films,	0.0%,	$15.5k,	1,	1,	87,	Cinedigm Entertainment,	0.0%,	$15.1k,	3,	3,	88,	Distrib Films,	0.0%,	$14.2k,	2,	2,	89,	Cinema Libre Studio,	0.0%,	$12.9k,	1,	1,	90,	IronFlix,	0.0%,	$11.1k,	1,	1,	91,	PBS Distribution,	0.0%,	$10.5k,	2,	0,	92,	Artmattan Prods.,	0.0%,	$10.4k,	1,	1,	93,	Cartilage,	0.0%,	$10.1k,	1,	1,	94,	Epic Pictures,	0.0%,	$7.4k,	1,	1,	95,	Zipporah Films,	0.0%,	$6.8k,	1,	0,	96,	Cleopatra Films,	0.0%,	$5.5k,	1,	1,	97,	Central Square,	0.0%,	$4.4k,	1,	1,	98,	AMBI,	0.0%,	$2.0k,	1,	0,	99,	Newcity,	0.0%,	$1.9k,	1,	0,	100,	CFI Releasing,	0.0%,	$1.8k,	1,	0,	101,	Driving With Our Eyes Shut,	0.0%,	$0.7k,	1,	0,	102,	Barn Owl,	0.0%,	$0.5k,	1,	0,	Rank,	Distributor,	MarketShare,	TotalGross*,	MoviesTracked,	2018Movies**,	1,	Buena Vista,	33.5%,	$1,527.7,	6,	3,	2,	20th Century Fox,	11.8%,	$538.2,	10,	5,	3,	Warner Bros.,	11.4%,	$521.6,	22,	11,	4,	Sony / Columbia,	8.9%,	$405.4,	10,	5,	5,	Universal,	8.7%,	$397.3,	8,	6,	6,	Paramount,	6.0%,	$274.1,	6,	4,	7,	Lionsgate,	3.8%,	$173.8,	10,	9,	8,	STX Entertainment,	2.6%,	$120.1,	5,	3,	9,	Fox Searchlight,	2.4%,	$109.3,	3,	1,	10,	Roadside Attractions,	2.2%,	$101.5,	6,	5,	11,	Focus Features,	1.6%,	$73.8,	7,	4,	12,	Entertainment Studios,	1.2%,	$53.0,	3,	2,	13,	MGM/UA,	0.7%,	$34.0,	1,	1,	14,	Neon,	0.6%,	$28.1,	4,	3,	15,	Aviron,	0.5%,	$24.4,	1,	1,	16,	Sony Classics,	0.5%,	$22.7,	11,	6,	17,	A24,	0.5%,	$22.6,	6,	3,	18,	Global Road,	0.3%,	$15.6,	2,	2,	19,	Bleecker Street,	0.3%,	$14.8,	6,	5,	20,	Viva Pictures Distribution,	0.3%,	$12.1,	3,	3,	21,	Fathom,	0.2%,	$11.2,	11,	11,	22,	Pure Flix,	0.2%,	$10.4,	3,	2,	23,	Mirror/LD,	0.2%,	$10.0,	1,	1,	24,	IFC,	0.2%,	$8.6,	11,	11,	25,	Orion Pictures,	0.1%,	$6.1,	2,	1,	26,	Magnolia,	0.1%,	$5.2,	12,	9,	27,	Well Go USA,	0.1%,	$3.7,	12,	9,	28,	Shorts International,	0.1%,	$3.5,	1,	1,	29,	Electric Entertainment,	0.1%,	$3.4,	1,	1,	30,	Fun Academy,	0.1%,	$3.1,	2,	2,	31,	GKIDS,	0.1%,	$2.7,	5,	3,	32,	Great India Films,	0.1%,	$2.7,	1,	1,	33,	Amazon Studios,	0.1%,	$2.5,	2,	1,	34,	Cohen Media Group,	0.0%,	$1.6,	5,	4,	35,	China Lion,	0.0%,	$1.4,	6,	4,	36,	FIP,	0.0%,	$1.3,	1,	1,	37,	Yash Raj,	0.0%,	$1.3,	2,	1,	38,	IMAX,	0.0%,	$1.2,	4,	0,	39,	Eros,	0.0%,	$1.1,	2,	2,	40,	Swen,	0.0%,	$938k,	1,	1,	41,	The Orchard,	0.0%,	$871k,	8,	6,	42,	Kino Lorber,	0.0%,	$844k,	12,	9,	43,	Zeitgeist,	0.0%,	$696k,	3,	1,	44,	Good Deed,	0.0%,	$673k,	3,	2,	45,	Open Road Films,	0.0%,	$583k,	1,	0,	46,	Film Movement,	0.0%,	$575k,	9,	6,	47,	Vertical Entertainment,	0.0%,	$533k,	2,	2,	48,	Gathr Films,	0.0%,	$506k,	23,	9,	49,	Greenwich,	0.0%,	$489k,	2,	2,	50,	Menemsha,	0.0%,	$449k,	2,	1,	51,	Indican,	0.0%,	$432k,	8,	6,	52,	Music Box Films,	0.0%,	$327k,	6,	4,	53,	Abramorama,	0.0%,	$314k,	5,	4,	54,	Gaumont British Picture Corporation,	0.0%,	$308k,	1,	1,	55,	Strand,	0.0%,	$296k,	6,	5,	56,	CJ Entertainment,	0.0%,	$273k,	4,	4,	57,	Hannover House,	0.0%,	$247k,	3,	3,	58,	Dada Films,	0.0%,	$186k,	1,	1,	59,	Janus Films,	0.0%,	$174k,	6,	5,	60,	Cinema Guild,	0.0%,	$145k,	7,	5,	61,	Gravitas Ventures,	0.0%,	$117k,	4,	4,	62,	Great Point,	0.0%,	$99.7k,	2,	2,	63,	Argot Pictures,	0.0%,	$98.9k,	1,	0,	64,	Super,	0.0%,	$98.4k,	2,	2,	65,	Atlas Distribution,	0.0%,	$94.8k,	2,	1,	66,	Lightyear Entertainment,	0.0%,	$86.4k,	1,	1,	67,	Samuel Goldwyn,	0.0%,	$85.6k,	1,	1,	68,	Oscilloscope Pictures,	0.0%,	$84.3k,	6,	4,	69,	Rialto,	0.0%,	$76.4k,	4,	3,	70,	FilmRise,	0.0%,	$75.3k,	2,	1,	71,	Outsider Films,	0.0%,	$73.5k,	1,	1,	72,	Passion River,	0.0%,	$71.7k,	1,	1,	73,	Parade Deck Films,	0.0%,	$68.0k,	5,	5,	74,	FilmBuff,	0.0%,	$57.3k,	1,	1,	75,	Under the Milky Way,	0.0%,	$56.6k,	1,	1,	76,	Grasshopper Film,	0.0%,	$56.5k,	8,	3,	77,	Vitagraph,	0.0%,	$45.0k,	1,	0,	78,	Paladin,	0.0%,	$43.8k,	2,	2,	79,	Zealous Productions,	0.0%,	$42.8k,	1,	1,	80,	Darin Southam Endeavor, Inc.,	0.0%,	$41.8k,	1,	1,	81,	First Run,	0.0%,	$40.9k,	5,	4,	82,	Shout! Factory,	0.0%,	$40.1k,	1,	1,	83,	Broad Green Pictures,	0.0%,	$32.6k,	1,	0,	84,	Icarus Films,	0.0%,	$23.4k,	2,	1,	85,	CARUSEL,	0.0%,	$23.0k,	2,	2,	86,	Idle Wild Films,	0.0%,	$15.5k,	1,	1,	87,	Cinedigm Entertainment,	0.0%,	$15.1k,	3,	3,	88,	Distrib Films,	0.0%,	$14.2k,	2,	2,	89,	Cinema Libre Studio,	0.0%,	$12.9k,	1,	1,	90,	IronFlix,	0.0%,	$11.1k,	1,	1,	91,	PBS Distribution,	0.0%,	$10.5k,	2,	0,	92,	Artmattan Prods.,	0.0%,	$10.4k,	1,	1,	93,	Cartilage,	0.0%,	$10.1k,	1,	1,	94,	Epic Pictures,	0.0%,	$7.4k,	1,	1,	95,	Zipporah Films,	0.0%,	$6.8k,	1,	0,	96,	Cleopatra Films,	0.0%,	$5.5k,	1,	1,	97,	Central Square,	0.0%,	$4.4k,	1,	1,	98,	AMBI,	0.0%,	$2.0k,	1,	0,	99,	Newcity,	0.0%,	$1.9k,	1,	0,	100,	CFI Releasing,	0.0%,	$1.8k,	1,	0,	101,	Driving With Our Eyes Shut,	0.0%,	$0.7k,	1,	0,	102,	Barn Owl,	0.0%,	$0.5k,	1,	0,	RELATED CHART Fastest Studios to $1 Billion,	
+
+Rank,	Distributor,	MarketShare,	TotalGross*,	MoviesTracked,	2018Movies**,	
+
+1,	Buena Vista,	33.5%,	$1,527.7,	6,	3,	
+
+2,	20th Century Fox,	11.8%,	$538.2,	10,	5,	
+
+3,	Warner Bros.,	11.4%,	$521.6,	22,	11,	
+
+4,	Sony / Columbia,	8.9%,	$405.4,	10,	5,	
+
+5,	Universal,	8.7%,	$397.3,	8,	6,	
+
+6,	Paramount,	6.0%,	$274.1,	6,	4,	
+
+7,	Lionsgate,	3.8%,	$173.8,	10,	9,	
+
+8,	STX Entertainment,	2.6%,	$120.1,	5,	3,	
+
+9,	Fox Searchlight,	2.4%,	$109.3,	3,	1,	
+
+10,	Roadside Attractions,	2.2%,	$101.5,	6,	5,	
+
+11,	Focus Features,	1.6%,	$73.8,	7,	4,	
+
+12,	Entertainment Studios,	1.2%,	$53.0,	3,	2,	
+
+13,	MGM/UA,	0.7%,	$34.0,	1,	1,	
+
+14,	Neon,	0.6%,	$28.1,	4,	3,	
+
+15,	Aviron,	0.5%,	$24.4,	1,	1,	
+
+16,	Sony Classics,	0.5%,	$22.7,	11,	6,	
+
+17,	A24,	0.5%,	$22.6,	6,	3,	
+
+18,	Global Road,	0.3%,	$15.6,	2,	2,	
+
+19,	Bleecker Street,	0.3%,	$14.8,	6,	5,	
+
+20,	Viva Pictures Distribution,	0.3%,	$12.1,	3,	3,	
+
+21,	Fathom,	0.2%,	$11.2,	11,	11,	
+
+22,	Pure Flix,	0.2%,	$10.4,	3,	2,	
+
+23,	Mirror/LD,	0.2%,	$10.0,	1,	1,	
+
+24,	IFC,	0.2%,	$8.6,	11,	11,	
+
+25,	Orion Pictures,	0.1%,	$6.1,	2,	1,	
+
+26,	Magnolia,	0.1%,	$5.2,	12,	9,	
+
+27,	Well Go USA,	0.1%,	$3.7,	12,	9,	
+
+28,	Shorts International,	0.1%,	$3.5,	1,	1,	
+
+29,	Electric Entertainment,	0.1%,	$3.4,	1,	1,	
+
+30,	Fun Academy,	0.1%,	$3.1,	2,	2,	
+
+31,	GKIDS,	0.1%,	$2.7,	5,	3,	
+
+32,	Great India Films,	0.1%,	$2.7,	1,	1,	
+
+33,	Amazon Studios,	0.1%,	$2.5,	2,	1,	
+
+34,	Cohen Media Group,	0.0%,	$1.6,	5,	4,	
+
+35,	China Lion,	0.0%,	$1.4,	6,	4,	
+
+36,	FIP,	0.0%,	$1.3,	1,	1,	
+
+37,	Yash Raj,	0.0%,	$1.3,	2,	1,	
+
+38,	IMAX,	0.0%,	$1.2,	4,	0,	
+
+39,	Eros,	0.0%,	$1.1,	2,	2,	
+
+40,	Swen,	0.0%,	$938k,	1,	1,	
+
+41,	The Orchard,	0.0%,	$871k,	8,	6,	
+
+42,	Kino Lorber,	0.0%,	$844k,	12,	9,	
+
+43,	Zeitgeist,	0.0%,	$696k,	3,	1,	
+
+44,	Good Deed,	0.0%,	$673k,	3,	2,	
+
+45,	Open Road Films,	0.0%,	$583k,	1,	0,	
+
+46,	Film Movement,	0.0%,	$575k,	9,	6,	
+
+47,	Vertical Entertainment,	0.0%,	$533k,	2,	2,	
+
+48,	Gathr Films,	0.0%,	$506k,	23,	9,	
+
+49,	Greenwich,	0.0%,	$489k,	2,	2,	
+
+50,	Menemsha,	0.0%,	$449k,	2,	1,	
+
+51,	Indican,	0.0%,	$432k,	8,	6,	
+
+52,	Music Box Films,	0.0%,	$327k,	6,	4,	
+
+53,	Abramorama,	0.0%,	$314k,	5,	4,	
+
+54,	Gaumont British Picture Corporation,	0.0%,	$308k,	1,	1,	
+
+55,	Strand,	0.0%,	$296k,	6,	5,	
+
+56,	CJ Entertainment,	0.0%,	$273k,	4,	4,	
+
+57,	Hannover House,	0.0%,	$247k,	3,	3,	
+
+58,	Dada Films,	0.0%,	$186k,	1,	1,	
+
+59,	Janus Films,	0.0%,	$174k,	6,	5,	
+
+60,	Cinema Guild,	0.0%,	$145k,	7,	5,	
+
+61,	Gravitas Ventures,	0.0%,	$117k,	4,	4,	
+
+62,	Great Point,	0.0%,	$99.7k,	2,	2,	
+
+63,	Argot Pictures,	0.0%,	$98.9k,	1,	0,	
+
+64,	Super,	0.0%,	$98.4k,	2,	2,	
+
+65,	Atlas Distribution,	0.0%,	$94.8k,	2,	1,	
+
+66,	Lightyear Entertainment,	0.0%,	$86.4k,	1,	1,	
+
+67,	Samuel Goldwyn,	0.0%,	$85.6k,	1,	1,	
+
+68,	Oscilloscope Pictures,	0.0%,	$84.3k,	6,	4,	
+
+69,	Rialto,	0.0%,	$76.4k,	4,	3,	
+
+70,	FilmRise,	0.0%,	$75.3k,	2,	1,	
+
+71,	Outsider Films,	0.0%,	$73.5k,	1,	1,	
+
+72,	Passion River,	0.0%,	$71.7k,	1,	1,	
+
+73,	Parade Deck Films,	0.0%,	$68.0k,	5,	5,	
+
+74,	FilmBuff,	0.0%,	$57.3k,	1,	1,	
+
+75,	Under the Milky Way,	0.0%,	$56.6k,	1,	1,	
+
+76,	Grasshopper Film,	0.0%,	$56.5k,	8,	3,	
+
+77,	Vitagraph,	0.0%,	$45.0k,	1,	0,	
+
+78,	Paladin,	0.0%,	$43.8k,	2,	2,	
+
+79,	Zealous Productions,	0.0%,	$42.8k,	1,	1,	
+
+80,	Darin Southam Endeavor, Inc.,	0.0%,	$41.8k,	1,	1,	
+
+81,	First Run,	0.0%,	$40.9k,	5,	4,	
+
+82,	Shout! Factory,	0.0%,	$40.1k,	1,	1,	
+
+83,	Broad Green Pictures,	0.0%,	$32.6k,	1,	0,	
+
+84,	Icarus Films,	0.0%,	$23.4k,	2,	1,	
+
+85,	CARUSEL,	0.0%,	$23.0k,	2,	2,	
+
+86,	Idle Wild Films,	0.0%,	$15.5k,	1,	1,	
+
+87,	Cinedigm Entertainment,	0.0%,	$15.1k,	3,	3,	
+
+88,	Distrib Films,	0.0%,	$14.2k,	2,	2,	
+
+89,	Cinema Libre Studio,	0.0%,	$12.9k,	1,	1,	
+
+90,	IronFlix,	0.0%,	$11.1k,	1,	1,	
+
+91,	PBS Distribution,	0.0%,	$10.5k,	2,	0,	
+
+92,	Artmattan Prods.,	0.0%,	$10.4k,	1,	1,	
+
+93,	Cartilage,	0.0%,	$10.1k,	1,	1,	
+
+94,	Epic Pictures,	0.0%,	$7.4k,	1,	1,	
+
+95,	Zipporah Films,	0.0%,	$6.8k,	1,	0,	
+
+96,	Cleopatra Films,	0.0%,	$5.5k,	1,	1,	
+
+97,	Central Square,	0.0%,	$4.4k,	1,	1,	
+
+98,	AMBI,	0.0%,	$2.0k,	1,	0,	
+
+99,	Newcity,	0.0%,	$1.9k,	1,	0,	
+
+100,	CFI Releasing,	0.0%,	$1.8k,	1,	0,	
+
+101,	Driving With Our Eyes Shut,	0.0%,	$0.7k,	1,	0,	
+
+102,	Barn Owl,	0.0%,	$0.5k,	1,	0,	
+

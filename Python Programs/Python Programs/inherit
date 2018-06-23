@@ -1,0 +1,7 @@
+def org():
+	n = 0
+	def first()
+		return n
+	def second(set_val)
+		nonlocal n
+		n = set_val
